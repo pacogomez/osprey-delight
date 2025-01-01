@@ -1,4 +1,4 @@
-module github.com/pacogomez/osprey-delight/v1
+module github.com/pacogomez/osprey-delight
 
 go 1.13
 
