@@ -5,6 +5,8 @@
 
 workspace
 
-# /resources/*
+/resources/*
 
 .env
+
+.hugo_build.lock
